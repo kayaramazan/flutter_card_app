@@ -15,4 +15,4 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 # flutter_card_app 
-<img src="https://raw.githubusercontent.com/kayaramazan/flutter_card_app/master/Screen%20Shot%202020-01-31%20at%2023.07.25.png">
+<img src="https://raw.githubusercontent.com/kayaramazan/flutter_card_app/master/Screen%20Shot%202020-01-31%20at%2023.07.25.png" width='100'>
